@@ -1,7 +1,7 @@
 # LovePet
 
 <div align="center">
-    <img src="/petProto.gif" width="200px">
+     <img src="/project/img/petProto.gif" width="200px">
 </div>
 
 1) O primeiro comando foi: ``npm init`` para criar o arquivo JSON;
